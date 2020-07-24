@@ -1,0 +1,90 @@
+body {
+    font-family: arial,sans-serif;
+    margin:0;
+}
+.navbar {
+    width: 100%;
+    padding: 18px;
+}
+.leftnav {
+    padding: 10px;
+}
+.rightnav {
+    float: right;
+    padding: 10px;
+}
+.navimage {
+    height: 15px;
+    width: 15px;
+}
+.navitem {
+    height: 30px !important;
+    height: 100%;
+    font-size:13px;
+}
+.right {
+    float: right;
+    margin-right:15px;
+}
+.left {
+    float: left;
+    margin-left: 15px;
+    opacity: 75%;
+}
+.mainlogo {
+    text-align: center;
+    margin-top: 15%;
+}
+.searchbar {
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+}
+.barfull {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    width: 45%;
+    padding: 1%;
+    border-radius: 100px;
+}
+.inputbar {
+    width: 90%;
+    border:none;
+    border-color:transparent;
+    background: white;
+}
+.lefticon {
+    float: left;
+    margin-left: 5px;
+}
+.righticon {
+    float: right;
+    margin-right: 5px;
+}
+.icon {
+    color: rgba(0, 0, 0, 0.3);
+}
+.buttons-container {
+    margin-top: 3%;
+    width: 100%;
+    text-align: center;
+}
+.button {
+    background: rgba(0, 0, 0, 0.05);
+    padding: 0.5%;
+    border-color:transparent;
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.footer {
+    background: rgba(0, 0, 0, 0.1);
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+}

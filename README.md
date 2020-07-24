@@ -1,0 +1,1 @@
+This is a small html/css app mainly set up to practice git.
